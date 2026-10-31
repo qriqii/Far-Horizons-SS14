@@ -23105,9 +23105,8 @@ Entries:
   url: https://github.com/Far-Horizons-SS14/Far-Horizons-SS14/pull/1959
 - author: qriqii
   changes:
-  - message: (Unity) Added cameras to Security. You ever get the feeling that the
-      AI is watching?
-    type: Add
+  - message: (Unity) added missing cameras to security
+    type: Fix
   id: 195901
   time: '2026-10-31T16:52:26.000000+00:00'
   url: https://github.com/Far-Horizons-SS14/Far-Horizons-SS14/pull/1959
